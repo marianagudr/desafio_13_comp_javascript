@@ -1,0 +1,219 @@
+/* Estilos encabezado */
+
+.mi-nav-color {
+    background-image: url(./img/fondo_header_final.jpg);
+    background-size: cover;
+}
+  
+.logo_nav {
+    width: 180px;
+}
+  
+.nav-fuente {
+    font-size: 1.1rem;
+}
+
+/* Body */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Monserrat', sans-serif; 
+}
+
+#anim1 {
+    display: none;
+}
+
+#anim2 {
+    display: none;
+}
+
+#anim3 {
+    display: none;
+}
+
+#anim4 {
+    display: none;
+}
+
+#anim5 {
+    display: none;
+}
+
+#anim6 {
+    display: none;
+}
+
+#anim7 {
+    display: none;
+}
+
+#anim8 {
+    display: none;
+}
+
+footer {
+    display: none;
+}
+
+h1 {
+    display: none;
+    color: #1f6e72;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 3rem;
+    text-align: center;
+    margin: 20px 10px;
+    padding: 20px 10px;
+}
+  
+.subtitulos {
+    color: #1f6e72;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 30px 10px;
+    padding: 20px 10px; 
+}
+  
+.parrafos {
+    margin: 10px 0px 15px 0px;
+    padding: 10px 0px;
+    text-align: center;
+    font-size: 1.3rem;
+    color: #001836;
+}
+  
+.textoPasos {
+    color: #222668;
+    text-align: center;
+    font-size: 1.2rem;
+    justify-self: stretch;
+    margin: 10px 20px 20px 20px; }
+  
+.subtitulosBody {
+    color: #001836;
+    font-size: 1.7rem;
+    font-family: 'Berkshire Swash', cursive;
+    margin: 20px 15px 0 15px;
+    padding: 20px 0 0 0;
+    justify-self: stretch;
+}
+  
+.parrafos-2 {
+    margin: 15px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 1.3rem;
+    color: #001836;
+    justify-self: stretch; 
+}
+
+.botonesPasos {
+    background-color: #f5f6fa;
+    border: solid 0.25px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.mapaPasos {
+    text-align: center;
+    justify-self: stretch;
+    margin: 10px 20px 20px 20px; 
+}
+
+.parrafo-foto {
+    float: right;
+    margin: 30px 20px 10px 20px;
+    padding: 5px;
+    border: solid 0.25px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.icono {
+    width: 100px;
+    align-self: center;
+    justify-self: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+  
+/* Botón Obtén tu Mapa */
+
+.boton {
+    background-color: #1f6e72;
+    color: #f5f6fa;
+    font-weight: bold;
+    margin: 50px;
+}
+
+/* Estilos Footer */
+.pie {
+    background-image: url(./img/fondo_footer_final.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+  
+.pie-2 {
+    color: #f5f6fa;
+    font-size: 1.1rem;
+    font-weight: lighter;
+    text-align: left;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: none; 
+}
+.pie-2 ul {
+    list-style: none; 
+}
+  
+.email {
+    width: 20px;
+}
+  
+.tele {
+    width: 20px; 
+}
+  
+.mis-redes {
+    display: flex;
+    flex-direction: row;
+    justify-items: space-around;
+    margin-top: 80px;
+}
+  
+.redes {
+    width: 40px;
+    margin: 20px; 
+}
+  
+.pie-3 {
+    background: linear-gradient(90deg, #1e6c70 0%, #043667 31%, #0a1737 100%);
+    background-size: cover;
+    color: #f5f6fa;
+    font-size: 1.1rem;
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px;
+}
+  
+.footer_lista {
+    list-style: none;
+    padding-top: 50px; }
+    .footer_lista a:hover {
+      color: #1f6e72; 
+}
+  
+.footer_lista_texto {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #f5f6fa;
+}
+
+.footer_logo {
+    width: 150px;
+}
+  
